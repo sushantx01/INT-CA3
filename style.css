@@ -113,6 +113,28 @@ body
 }
 
 
+#fact{
+    width: 70%;
+    margin: 50px auto;
+}
+#fact fieldset{
+    border: 2px solid #18d089;
+    padding: 20px 5px;
+    text-align: center;
+    background-image: linear-gradient(white,#eee);
+    box-shadow: 5px 5px 10px #eee;
+}
+#fact fieldset legend{
+    font-family: monospace;
+    font-size: 20px;
+    padding: 10px 10px;
+    color: #ce4141;
+    font-weight: bold;
+    letter-spacing: 5px;
+}
+
+
+
 
 
 /*----------------Side-menu--------------*/
@@ -200,7 +222,7 @@ body
 .slider
 {
     width: 85%;
-    margin-left: 15%;
+    margin-left: 8%;
     padding: 0 10px;
 }
 .carousel
@@ -578,7 +600,7 @@ body
     margin: 0px auto;
     background-color:#D1C4E9;
     color: floralwhite;
-    background-image:url(su.png);
+    background-image:url(su1.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
