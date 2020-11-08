@@ -573,6 +573,28 @@ body
 
 
 
+
+
+
+
+
+
+
+
+
+
+.row-header{
+    margin:0px auto;
+    padding: 0px auto;
+    font-color:white;
+}
+.row-content{
+    margin: 0px auto;
+    padding: 50px 0px 50px 0px;
+    border-bottom: 1px ridge;
+    min-height: 400px;
+}
+
 .jumbotron{
     padding:180px 50px 180px 50px;
     margin: 0px auto;
@@ -584,5 +606,23 @@ body
     background-attachment: fixed;
    
 }
+
+
+
+
+
+   
+
+
+
+
+
+.center{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
 
 
